@@ -3,7 +3,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-const int MAX = 10006, N = 506;
+const int MAX = 10006, N = 510;
 int xx[MAX], yy[MAX];
 int c, n, tx = 0, ty = 0;
 int x[N], y[N], s[N][N];
